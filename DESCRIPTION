@@ -1,7 +1,7 @@
 Package: frequency
 Type: Package
 Title: Easy Frequency Tables
-Version: 0.4.0
+Version: 0.4.1
 Author: Alistair Wilcox
 Maintainer: Alistair Wilcox <frequency@alistairwilcox.com>
 Description: Generate 'SPSS'/'SAS' styled frequency tables. Frequency tables are 
@@ -13,10 +13,10 @@ Suggests: foreign, haven, testthat, covr, shiny
 SystemRequirements: pandoc (>= 1.12.3) - http://pandoc.org
 License: GPL-3
 LazyData: TRUE
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
 URL: https://github.com/wilcoxa/frequency
 BugReports: https://github.com/wilcoxa/frequency/issues
 NeedsCompilation: no
-Packaged: 2020-04-05 09:28:18 UTC; Al
+Packaged: 2021-01-11 13:14:56 UTC; Al
 Repository: CRAN
-Date/Publication: 2020-04-05 09:50:03 UTC
+Date/Publication: 2021-01-11 14:00:03 UTC

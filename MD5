@@ -1,7 +1,7 @@
-45360c842b8f48a1c9d9f3cf023064e1 *DESCRIPTION
+2661e66199cfd7699b248c03d327fabc *DESCRIPTION
 58d310e8f0e7b1d6c5d65e7d372a28cd *NAMESPACE
-aa9a3668424d30f0df3338b4448b2229 *NEWS.md
-ebf155f0825e9467fb21ae37466da5d2 *R/big5.R
+fde9e1c8079b45289f0a8226ef5f9b33 *NEWS.md
+9b1ff404322c4ff6c7e7c9c40c507f82 *R/big5.R
 28fcdeb36add3b92b6f2b5df5a7e7ad2 *R/create_markdown.R
 4dbd85094ceb1e5790fe5841d7d86080 *R/freq.R
 ff013dd6269f0d74f2d55d3aae1130fe *R/freq_table.R
@@ -12,9 +12,9 @@ eb134b8ca4c7f2e637b7815297ca38ca *R/functions.R
 09246bc7964ac19b66cacfd794f9f37c *R/make_freqs.R
 228771f00e05914384c8f6534b1a4c17 *R/make_vis.R
 8bca96b12bbed580e7d8e705a083d5dd *R/zzz.R
-ca44d1976bbbe253deb2ac17afaabf96 *README.md
+60546f4708d37f318a5a44478c892b78 *README.md
 7c642286be29ff0c2e778dcbc57cf2ca *data/big5.rda
-b0ad867749f215aba194b56cc1f3433d *man/big5.Rd
+e5cf9bb53a728633dada349e7a138ddb *man/big5.Rd
 60dd9543f123aba0d644a18e501229e1 *man/freq.Rd
 a4e3c4bbb722eb571bbecc79aea0f608 *man/frequency.Rd
 bd15eca7d878a7a3b8e2aae7a085ed0f *man/print.freq_table.Rd
@@ -27,4 +27,4 @@ af64a8be4f2b64428e250f3f90ad6836 *tests/testthat/coverage.R
 c789ac728a6e392d00b74945400c78ce *tests/testthat/output.R
 0495c5cb5389fa1cdaa5753a0440fff4 *tests/testthat/test_spss.sav
 67ed331a63d3276e2a4e3e2eb698ac1f *tests/testthat/test_spss_unicode.sav
-f8885f0e5a2066b6a60925627dfaac70 *tests/testthat/tests.R
+a63c693e7df5a0c1da1a828e603a1d7d *tests/testthat/tests.R
